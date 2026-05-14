@@ -19,4 +19,4 @@ This app does not use advertising SDKs or third-party analytics services.
 If you contact us by email, your email address will only be used to respond to your inquiry.
 
 Contact:
-petiterabbitstudio@gmail.com
+hey.petiterabbit@gmail.com
